@@ -1,0 +1,15 @@
+[Reggae]    +0.005s  Creating dub instance
+[Reggae]    +0.069s  Getting dub information
+[Reggae]    +0.069s  Getting dub configurations
+[Reggae]    +0.111s  Number of dub configurations: 2
+[Reggae]    +0.111s  Querying dub configuration 'executable'
+     Pre-gen Running commands for reggae
+/tmp/.rdmd-1000/rdmd-list_payload.d-9239D3AC6C77588211F9CBBAE0E3F582/list_payload
+[Reggae]    +0.162s  Querying dub configuration 'unittest'
+     Pre-gen Running commands for reggae
+/tmp/.rdmd-1000/rdmd-list_payload.d-9239D3AC6C77588211F9CBBAE0E3F582/list_payload
+[Reggae]    +0.231s  Got dub build information
+[build] Nothing to do
+[Reggae]    +0.237s  Compiling metabuild binary buildgen
+[Reggae]    +0.262s  Running the created binary to generate the build
+[Reggae]    +0.279s  Build generated
