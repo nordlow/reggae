@@ -56,6 +56,7 @@ imported!"reggae.dub.info".DubInfo[string] dubInfos(O)
         output.log("Creating dub instance");
         auto dub = Dub(options);
 
+        output.log("Fetching dub dependencies");
         dub.fetchDeps(output);
 
         output.log("Getting dub information");
